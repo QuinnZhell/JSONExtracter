@@ -1,0 +1,23 @@
+{
+	"Pagination": {
+		"Page": 1,
+		"PageNext": null,
+		"PagePrev": null,
+		"PageTotal": 1,
+		"Results": 1,
+		"ResultsPerPage": 50,
+		"ResultsTotal": 1
+	},
+	"Results": [
+		{
+			"Avatar": "https:\/\/img2.finalfantasyxiv.com\/f\/d8967de4b56f65ad97b7879dbd85a4a3_5047bc596a4bab2dc7f7c120bb22dec5fc0_96x96.jpg?1645624118",
+			"FeastMatches": 0,
+			"ID": 38267504,
+			"Lang": "EN",
+			"Name": "Astar Moonseeker",
+			"Rank": null,
+			"RankIcon": null,
+			"Server": "Phoenix\u00a0(Light)"
+		}
+	]
+}
